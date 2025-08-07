@@ -1,15 +1,15 @@
 # Equipe de Fundamentos da informatica
 ---
-## Membros:
+
+<img align="right" height="200px" width="200px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBuMnp5bWFrYXEzbzExenkwNjlha21meXMwOXZvOHFzcWFxZ2h3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif">
+
+### Membros:
 
 ### Isaac Faleiros Q
 ### Bruno L de Lima
 ### Arthur Torres M.
 ### Enzo Agostini de Lima
 ### Henrique S. Martin
-
-
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBuMnp5bWFrYXEzbzExenkwNjlha21meXMwOXZvOHFzcWFxZ2h3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif">
 
 
 ---
