@@ -2,15 +2,17 @@
 ---
 ## Membros:
 
-### Isaac Faleiros Q.
+### Isaac Faleiros Q
 ### Bruno L de Lima
 ### Arthur Torres M.
 ### Enzo Agostini de Lima
 ### Henrique S. Martin
 
 
----
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBuMnp5bWFrYXEzbzExenkwNjlha21meXMwOXZvOHFzcWFxZ2h3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif">
 
+
+---
 
 <p>
   <img 
