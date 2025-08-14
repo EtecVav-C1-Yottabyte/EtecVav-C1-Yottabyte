@@ -5,11 +5,11 @@
 
 ### Membros:
 
-### Isaac Faleiros Q
-### Bruno L de Lima
-### Arthur Torres M.
+### Isaac Faleiros Quevedo
+### Bruno Lourenço de Lima
+### Arthur Torres Mendes
 ### Enzo Agostini de Lima
-### Henrique S. Martin
+### Henrique Silvestre Martin
 
 
 ---
